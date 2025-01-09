@@ -1,11 +1,3 @@
-<h1 align="center">Hi 👋, I'm Sarthak</h1>
-<h3 align="center">I code in JavaScript/Typescript, Solidity and Rust. Currently exploring Web3 and AI.</h3>
-
-<h3 align="left">About me:</h3>
-
-- 🔭 I’m currently working on [Miraya7f](https://x.com/miraya7f)
-- 📫 How to reach me **TG: sarthakvaishsol**
-
 <h3 align="left">Hackathons Wins 🏆:</h3>
 
 - [Superfluid Wave Pool #9](https://x.com/Superfluid_HQ/status/1664726115376611337)
