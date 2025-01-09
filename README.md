@@ -3,8 +3,16 @@
 
 <h3 align="left">About me:</h3>
 
-- 🔭 I’m currently working on [Miraya7f]([https://github.com/agent-miraya/Miraya-7f](https://x.com/miraya7f))
+- 🔭 I’m currently working on [Miraya7f](https://x.com/miraya7f)
 - 📫 How to reach me **TG: sarthakvaishsol**
+
+<h3 align="left">Hackathons Wins 🏆:</h3>
+
+- [Superfluid Wave Pool #9](https://x.com/Superfluid_HQ/status/1664726115376611337)
+- [FVM Dataverse](https://devpost.com/software/linko)
+- [Spheron Dappathon](https://devpost.com/software/eventify-27gui0)
+- [HackFS 2024](https://ethglobal.com/showcase/honorous-xxvp0)
+- [BNB Chain Zero2Hero](https://www.blog.encode.club/bnb-chain-zero2hero-hackathon-powered-by-encode-prizewinners-and-summary-ece409fa38d0)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
