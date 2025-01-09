@@ -13,6 +13,7 @@
 - [Spheron Dappathon](https://devpost.com/software/eventify-27gui0)
 - [HackFS 2024](https://ethglobal.com/showcase/honorous-xxvp0)
 - [BNB Chain Zero2Hero](https://www.blog.encode.club/bnb-chain-zero2hero-hackathon-powered-by-encode-prizewinners-and-summary-ece409fa38d0)
+- [Hack Web3Conf India '2](https://devfolio.co/projects/eventify-50ed)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
